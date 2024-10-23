@@ -1,0 +1,10 @@
+@mixin media() {
+  @media screen and (max-width: 601px) {
+    .section5PIcontent {
+      text-align: center;
+    }
+  }
+}
+
+
+
